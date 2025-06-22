@@ -25,7 +25,8 @@ const defaultItems = [
     name: "Blue Denim Jeans",
     type: "Pant",
     description: "Comfortable and stylish slim-fit blue jeans.",
-    coverImage: "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/2/9/y/30-bluejeans-29-brexx-original-imahcpr3dwsytbmh.jpeg?q=70&crop=false",
+    coverImage:
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/2/9/y/30-bluejeans-29-brexx-original-imahcpr3dwsytbmh.jpeg?q=70&crop=false",
     additionalImages: [
       "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/a/w/a/30-bluejeans-29-brexx-original-imahcpr2haybnpag.jpeg?q=70&crop=false",
       "https://rukminim2.flixcart.com/image/416/416/xif0q/jean/6/f/8/30-bluejeans-29-brexx-original-imahcpr3bchzjcmb.jpeg?q=70&crop=false",
@@ -37,7 +38,8 @@ const defaultItems = [
     name: "Running shoes",
     type: "Shoes",
     description: "Breathable and lightweight sneakers ideal for running.",
-    coverImage: "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/1/1/m/9-assg1102n-9-abros-white-mint-original-imahcg9j7ppxgzkf.jpeg?q=70&crop=false",
+    coverImage:
+      "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/1/1/m/9-assg1102n-9-abros-white-mint-original-imahcg9j7ppxgzkf.jpeg?q=70&crop=false",
     additionalImages: [
       "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/o/3/4/10-assg1102n-10-abros-white-mint-original-imahcg9jhj7dgwkh.jpeg?q=70&crop=false",
       "https://rukminim2.flixcart.com/image/416/416/xif0q/shoe/f/l/0/9-assg1102n-9-abros-white-mint-original-imahcg9j2g5s7pde.jpeg?q=70&crop=false",
@@ -46,12 +48,14 @@ const defaultItems = [
   },
   {
     id: 4,
-    name: "Cricket Bat",
-    type: "Sports Gear",
-    description: "Professional-grade English willow cricket bat.",
-    coverImage: "https://rukminim2.flixcart.com/image/416/416/jppsqkw0/bat/w/5/k/0-4-srs-gennis-long-handle-na-mrf-original-imaf2jjy4kukyr2y.jpeg?q=70&crop=false",
+    name: "Jacket",
+    type: "Sports Jacket",
+    description: "Professional-grade sports jacket.",
+    coverImage:
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/x/h/f/m-no-tiranga-upper-zyrona-original-imah7qxeqgrfjdtk.jpeg?q=70&crop=false",
     additionalImages: [
-     "https://rukminim2.flixcart.com/image/128/128/k2m6ufk0/bat/q/a/r/1160-1220-short-handle-sikander-1000-cb-1149-sh-spartan-original-imafkfvahbp7scbx.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/128/128/xif0q/jacket/u/v/f/m-no-tiranga-upper-zyrona-original-imah7qxeuc6arjzh.jpeg?q=70&crop=false",
+      "https://rukminim2.flixcart.com/image/128/128/xif0q/jacket/w/t/8/m-no-tiranga-upper-zyrona-original-imah7qxersz4zwqz.jpeg?q=70&crop=false",
     ],
     price: 3499,
   },
@@ -60,7 +64,8 @@ const defaultItems = [
     name: "Sports T-Shirt",
     type: "Shirt",
     description: "Moisture-wicking performance t-shirt for workouts.",
-    coverImage: "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/b/g/n/l-or10-technosport-original-imagnbpybsdmhtjw.jpeg?q=70&crop=false",
+    coverImage:
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/b/g/n/l-or10-technosport-original-imagnbpybsdmhtjw.jpeg?q=70&crop=false",
     additionalImages: [
       "https://rukminim2.flixcart.com/image/128/128/xif0q/t-shirt/y/m/e/l-or10-technosport-original-imagnbpydgffr6x7.jpeg?q=70&crop=false",
       "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/s/p/d/l-or10-technosport-original-imagnbpyedwuva3j.jpeg?q=70&crop=false",
